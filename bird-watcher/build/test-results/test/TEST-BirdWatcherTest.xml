@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BirdWatcherTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-10-24T21:32:56" hostname="WINAPR11o0EYt8C" time="0.47">
+  <properties/>
+  <testcase name="The getBusyDays method correctly returns zero in case of no busy days" classname="BirdWatcherTest" time="0.379"/>
+  <testcase name="The hasDayWithoutBirds method returns false when no day had zero visits" classname="BirdWatcherTest" time="0.014"/>
+  <testcase name="The getLastWeek method correctly returns last week's counts" classname="BirdWatcherTest" time="0.022"/>
+  <testcase name="The hasDayWithoutBirds method returns true when day had no visits" classname="BirdWatcherTest" time="0.004"/>
+  <testcase name="The getBusyDays method returns the correct count of busy days" classname="BirdWatcherTest" time="0.003"/>
+  <testcase name="The getCountForFirstDays method returns correct visits' count for given number of days" classname="BirdWatcherTest" time="0.003"/>
+  <testcase name="The getToday method correctly returns today's counts" classname="BirdWatcherTest" time="0.005"/>
+  <testcase name="The incrementTodaysCount method correctly increments today's counts" classname="BirdWatcherTest" time="0.007"/>
+  <testcase name="The getCountForFirstDays method returns overall count when number of days is higher than array size" classname="BirdWatcherTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
